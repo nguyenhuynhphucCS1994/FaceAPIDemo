@@ -1,0 +1,14 @@
+P:\C# Projects\FaceAPISample\face-Face-SDK-Windows\ClientLibrary\bin\Debug\Microsoft.ProjectOxford.Face.dll
+P:\C# Projects\FaceAPISample\face-Face-SDK-Windows\ClientLibrary\bin\Debug\Microsoft.ProjectOxford.Face.pdb
+P:\C# Projects\FaceAPISample\face-Face-SDK-Windows\ClientLibrary\bin\Debug\Newtonsoft.Json.dll
+P:\C# Projects\FaceAPISample\face-Face-SDK-Windows\ClientLibrary\bin\Debug\Newtonsoft.Json.xml
+P:\C# Projects\FaceAPISample\face-Face-SDK-Windows\ClientLibrary\obj\Debug\FaceClientLibrary.csprojResolveAssemblyReference.cache
+P:\C# Projects\FaceAPISample\face-Face-SDK-Windows\ClientLibrary\obj\Debug\Microsoft.ProjectOxford.Face.dll
+P:\C# Projects\FaceAPISample\face-Face-SDK-Windows\ClientLibrary\obj\Debug\Microsoft.ProjectOxford.Face.pdb
+D:\C# Projects\FaceAPISample\face-Face-SDK-Windows\ClientLibrary\bin\Debug\Microsoft.ProjectOxford.Face.dll
+D:\C# Projects\FaceAPISample\face-Face-SDK-Windows\ClientLibrary\bin\Debug\Microsoft.ProjectOxford.Face.pdb
+D:\C# Projects\FaceAPISample\face-Face-SDK-Windows\ClientLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\C# Projects\FaceAPISample\face-Face-SDK-Windows\ClientLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\C# Projects\FaceAPISample\face-Face-SDK-Windows\ClientLibrary\obj\Debug\FaceClientLibrary.csprojResolveAssemblyReference.cache
+D:\C# Projects\FaceAPISample\face-Face-SDK-Windows\ClientLibrary\obj\Debug\Microsoft.ProjectOxford.Face.dll
+D:\C# Projects\FaceAPISample\face-Face-SDK-Windows\ClientLibrary\obj\Debug\Microsoft.ProjectOxford.Face.pdb
